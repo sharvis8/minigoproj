@@ -1,4 +1,4 @@
-# Simple Webserver Golang
+# Simple Webserver Golang Project
 
 ## Architecture
 
